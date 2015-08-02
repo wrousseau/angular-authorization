@@ -1,0 +1,30 @@
+{
+  "name": "angular-authorization",
+  "version": "0.0.1",
+  "authors": [
+    "Woody Rousseau <woody.a.rousseau@gmail.com>"
+  ],
+  "description": "Basic state authorization with Angular UIRouter",
+  "main": "dist/angular-authorization.js",
+  "keywords": [
+    "angular",
+    "authorization",
+    "route",
+    "state",
+    "ui-router"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-ui-router": "~0.2.15",
+    "lodash": "~3.10.0"
+  }
+}
