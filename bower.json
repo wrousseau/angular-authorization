@@ -1,6 +1,6 @@
 {
   "name": "angular-authorization",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Woody Rousseau <woody.a.rousseau@gmail.com>"
   ],
@@ -24,7 +24,10 @@
   ],
   "dependencies": {
     "angular": "~1.4.3",
-    "angular-ui-router": "~0.2.15",
-    "lodash": "~3.10.0"
+    "angular-ui-router": "~0.2.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wrousseau/angular-authorization.git"
   }
 }
